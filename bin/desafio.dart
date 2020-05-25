@@ -4,12 +4,13 @@
 
 
 void main() {
-  //sem numeros
+  
+  //resposta -> sem numeros 
   for (var valor = '#'; valor != '#######'; valor += '#') {
     print(valor);
   }
-  //com numeros
 
+  //com numeros
   print('\nacima sem numero e a baixo com numeros\n');
 
   var valor = '#';
